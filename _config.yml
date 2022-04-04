@@ -3,7 +3,7 @@ logo: "/images/A4B17E64-9EA7-45B4-BA01-7F02B886507F.jpeg?raw=true" # your photo 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Turning proprietary ML marketing science analytical models into XAI algorithms.
   <br><br>
-Introducing inductive-reasoning based ML models that should reinforce the validity of dependable models and add to the robustness of the results derived from inter-dependent models, so as to create XAI with emphasis on feature impact, prediction explanations and cluster insights, and to create A | B test experiments that can validate the stability of time-series models.  <br><br>
+  Introducing inductive-reasoning based ML models that should reinforce the validity of dependable models and add to the robustness of the results derived from inter-dependent models, so as to create XAI with emphasis on feature impact, prediction explanations and cluster insights, and to create A | B test experiments that can validate the stability of time-series models.  <br><br>
   <a href="https://www.linkedin.com/in/unicornpy/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
